@@ -16,7 +16,5 @@ driver.impicity_wait(5)
 driver.get("https://jqueryui.com/datepicker/")
 driver.impicity_wait(5)
 
-
-
 time.sleep(5)
 driver.quit()
